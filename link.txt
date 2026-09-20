@@ -1,0 +1,1 @@
+wss://fi5.bot-hosting.net:20088/server
