@@ -1,1 +1,1 @@
-wss://fi5.bot-hosting.net:20088/server
+wss://fi6.bot-hosting.net:22719/server
